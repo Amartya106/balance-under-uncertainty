@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.vscode/
+results/logs/*.log
+results/logs/checkpoints/
+*.pt
+*.pth
+wandb/
+.ipynb_checkpoints/
